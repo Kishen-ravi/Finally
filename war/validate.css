@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+
+#container{
+	 text-align: left;
+	 margin: 0;
+	 padding: 0;
+	 margin: 0 auto;
+	 font-family: "Trebuchet MS","Myriad Pro",Arial,sans-serif;
+}
+
+#wrapper{
+	background-color: rgb(241,123,0);
+	width: 60%;
+	right: 0px;
+	min-height: 560px;	
+	margin: 0px auto;	
+	width: 500px;
+	position: relative;
+}
+#wrapper h1{
+	font-size: 48px;
+	color: rgb(123,345,12);
+	padding: 2px 0 10px 0;
+	font-family: 'FranchiseRegular','Arial Narrow',Arial,sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+}
+#wrapper h1{
+	Color: #0028f2100;
+}
+
+#wrapper p{
+	margin-bottom:15px;
+}
+#wrapper p:first-child{
+	margin: 0px;
+}
+#wrapper label{
+	font-size:25px;
+	color: rgb(64, 92, 196);
+	position: relative;
+}
+
+#ex1{
+	background-color: rgb(121,231,23);
+		padding: 5px;
+	margin: 5px;
+	width: 490px;
+	
+}
